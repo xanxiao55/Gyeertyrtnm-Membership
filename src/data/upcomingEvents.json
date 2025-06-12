@@ -1,0 +1,56 @@
+[
+  {
+    "id": "upcoming-1",
+    "title": "Winter Wonderland Run",
+    "image": "https://images.pexels.com/photos/2803158/pexels-photo-2803158.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "location": "Aspen, CO",
+    "date": "2024-12-15",
+    "distance": "15k",
+    "description": "Experience the magic of winter running through snow-covered trails and festive decorations."
+  },
+  {
+    "id": "upcoming-2",
+    "title": "New Year Resolution Run",
+    "image": "https://images.pexels.com/photos/1571939/pexels-photo-1571939.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "location": "Los Angeles, CA",
+    "date": "2025-01-01",
+    "distance": "5k",
+    "description": "Start the new year right with this motivational run along the beautiful LA coastline."
+  },
+  {
+    "id": "upcoming-3",
+    "title": "Valentine's Couples Marathon",
+    "image": "https://images.pexels.com/photos/3621104/pexels-photo-3621104.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "location": "San Francisco, CA",
+    "date": "2025-02-14",
+    "distance": "10k",
+    "description": "Run together with your loved one through the romantic streets of San Francisco."
+  },
+  {
+    "id": "upcoming-4",
+    "title": "Spring Blossom Festival Run",
+    "image": "https://images.pexels.com/photos/2402777/pexels-photo-2402777.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "location": "Washington, DC",
+    "date": "2025-03-20",
+    "distance": "21k",
+    "description": "Celebrate spring with a run through Washington's famous cherry blossoms."
+  },
+  {
+    "id": "upcoming-5",
+    "title": "Earth Day Eco Marathon",
+    "image": "https://images.pexels.com/photos/1571937/pexels-photo-1571937.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "location": "Seattle, WA",
+    "date": "2025-04-22",
+    "distance": "25k",
+    "description": "Run for the planet in this eco-friendly marathon promoting environmental awareness."
+  },
+  {
+    "id": "upcoming-6",
+    "title": "Summer Solstice Night Run",
+    "image": "https://images.pexels.com/photos/1571940/pexels-photo-1571940.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "location": "Miami, FL",
+    "date": "2025-06-21",
+    "distance": "10k",
+    "description": "Celebrate the longest day of the year with an evening run through vibrant Miami."
+  }
+]
